@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aylin\\OneDrive\\Documentos\\Ingeniería de Software II\\Akka_API\\Akka_API\\Akka_API.csproj": {}
+    "C:\\Users\\aylin\\OneDrive\\Documentos\\Noveno ciclo 2023\\Ingeniería de Software II\\Tareas\\AkkaAPI\\Akka_API\\Akka_API\\Akka_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aylin\\OneDrive\\Documentos\\Ingeniería de Software II\\Akka_API\\Akka_API\\Akka_API.csproj": {
+    "C:\\Users\\aylin\\OneDrive\\Documentos\\Noveno ciclo 2023\\Ingeniería de Software II\\Tareas\\AkkaAPI\\Akka_API\\Akka_API\\Akka_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aylin\\OneDrive\\Documentos\\Ingeniería de Software II\\Akka_API\\Akka_API\\Akka_API.csproj",
+        "projectUniqueName": "C:\\Users\\aylin\\OneDrive\\Documentos\\Noveno ciclo 2023\\Ingeniería de Software II\\Tareas\\AkkaAPI\\Akka_API\\Akka_API\\Akka_API.csproj",
         "projectName": "Akka_API",
-        "projectPath": "C:\\Users\\aylin\\OneDrive\\Documentos\\Ingeniería de Software II\\Akka_API\\Akka_API\\Akka_API.csproj",
+        "projectPath": "C:\\Users\\aylin\\OneDrive\\Documentos\\Noveno ciclo 2023\\Ingeniería de Software II\\Tareas\\AkkaAPI\\Akka_API\\Akka_API\\Akka_API.csproj",
         "packagesPath": "C:\\Users\\aylin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aylin\\OneDrive\\Documentos\\Ingeniería de Software II\\Akka_API\\Akka_API\\obj\\",
+        "outputPath": "C:\\Users\\aylin\\OneDrive\\Documentos\\Noveno ciclo 2023\\Ingeniería de Software II\\Tareas\\AkkaAPI\\Akka_API\\Akka_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aylin\\AppData\\Roaming\\NuGet\\NuGet.Config",

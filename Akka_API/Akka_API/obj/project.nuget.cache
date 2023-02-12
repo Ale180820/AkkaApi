@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/QZj9+NKaKzL5GcyNyy/mgDiLQiFAqqhfrYeAiitfmeln9Eud+pXMdERdjXk4X0wUq1bT4bXFmblPAbwcTmQw==",
+  "dgSpecHash": "ba7gyeta8cdIBgV0AdduhtNTRCqyiI+086mTaG+gCjuFxrPKhSFbnYejMZW5fPqaY4uvwpPLwVBaXAk4FbGLRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aylin\\OneDrive\\Documentos\\Ingeniería de Software II\\Akka_API\\Akka_API\\Akka_API.csproj",
+  "projectFilePath": "C:\\Users\\aylin\\OneDrive\\Documentos\\Noveno ciclo 2023\\Ingeniería de Software II\\Tareas\\AkkaAPI\\Akka_API\\Akka_API\\Akka_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aylin\\.nuget\\packages\\akka\\1.4.49\\akka.1.4.49.nupkg.sha512",
     "C:\\Users\\aylin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

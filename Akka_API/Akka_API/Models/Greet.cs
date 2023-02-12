@@ -11,7 +11,7 @@
 
         public override string ToString()
         {
-            return $"El actor {Who} ha sido conocido";
+            return $"¡Hola, {Who}! Has sido conocido como actor";
         }
     }
 }
