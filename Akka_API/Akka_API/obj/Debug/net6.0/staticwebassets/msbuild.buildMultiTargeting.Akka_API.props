@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Akka_API.props" />
+</Project>
